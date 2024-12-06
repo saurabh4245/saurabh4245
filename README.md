@@ -97,11 +97,11 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 Here is the updated section in the requested style:
 
 ## 🌐 **Let's Connect**  
-📧 **Email:** [vijaytakbhate20@gmail.com](mailto:vijaytakbhate20@gmail.com)  
-🌍 **GitHub:** [My Repositories](https://github.com/vijaytakbhate2002)  
-💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/vijay-takbhate-b9231a236/?trk=PROFILE_DROP_DOWN)  
+📧 **Email:** [saurabhparchande2701@gmail.com](mailto:saurabhparchande2701@gmail.com)  
+🌍 **GitHub:** [My Repositories](https://github.com/saurabh4245)  
+💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/saurabh-parchande-850422236/))  
 📊 **Kaggle:** [My Work](https://www.kaggle.com/vijay20213)  
-🎥 **YouTube:** [Deep Neural Channel](https://www.youtube.com/c/DeepNeural)  
+🎥 **YouTube:** [Coding Channel](www.youtube.com/@थोडावेळकोडिंगसाठी)  
 
 ---
 
