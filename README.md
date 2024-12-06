@@ -99,7 +99,7 @@ Here is the updated section in the requested style:
 ## 🌐 **Let's Connect**  
 📧 **Email:** [saurabhparchande2701@gmail.com](mailto:saurabhparchande2701@gmail.com)  
 🌍 **GitHub:** [My Repositories](https://github.com/saurabh4245)  
-💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/saurabh-parchande-850422236/))  
+💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/saurabh-parchande-850422236/)  
 📊 **Kaggle:** [My Work](https://www.kaggle.com/vijay20213)  
 🎥 **YouTube:** [Coding Channel](www.youtube.com/@थोडावेळकोडिंगसाठी)  
 
