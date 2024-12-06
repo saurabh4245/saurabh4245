@@ -1,7 +1,7 @@
 # 🌟 Hi, I'm Saurabh Parchande! 👋
 
 Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java Developer** skilled in **Google Cloud**, 
- **databases**, **python**, **machine learning**, and **AI**, with a passion for building real-world applications. 🚀
+ **databases**, **python**, **machine learning**, and **AI** with a passion for building real-world applications. 🚀
 
 ## About Me:
 - 💡 I specialize in **turning data into insights** and thrive on solving complex problems with innovative solutions.
