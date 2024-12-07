@@ -12,7 +12,6 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 - **Machine Learning & AI**: Developing algorithms, models, and systems to solve real-world challenges using data.
 - **MLOps**: Automating and optimizing the deployment of machine learning models in production.
 - **LLMs & Fine-Tuning**: Working with large-scale models to create intelligent, adaptable systems.
-- **RAG**: Exploring innovative approaches to enhance model performance through Retrieval-Augmented Generation techniques.
 
 ---
 
