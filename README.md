@@ -6,16 +6,15 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 ## About Me:
 - 📍 I’m Saurabh Sudhir Parchande from Pandharpur.
 - 🎓 Completed B.Tech in Engineering + Diploma.
-- 📝 Passionate about journaling and story writing for creativity.
+- 📝 Passionate about **journaling** and **story/blog writing** for creativity.
 - 🏏 Avid cricket player who values teamwork and resilience.
-- 👂 Strength: Active listening to connect deeply and understand better.
+- 👂 Strength: **Active listening** to connect deeply and understand better.
 - 📌 Looking forward to collaborating and exploring exciting opportunities! <br>
   **#IT #Learning #Growth #Developer #Networking**
 
-## What I Do:
-- **Machine Learning & AI**: Developing algorithms, models, and systems to solve real-world challenges using data.
-- **MLOps**: Automating and optimizing the deployment of machine learning models in production.
-- **LLMs & Fine-Tuning**: Working with large-scale models to create intelligent, adaptable systems.
+## Experience:
+- **WEB DEVELOPMENT | INTERNSHALA TRAININGS**: Learned and implemented core web development concepts, including HTML, CSS, JavaScript, DBMS and responsive design.
+- **INTRODUCTION OF CLOUD COMPUTING AND BASICS OF AWS | SOFTECH CODERS**: Gained foundational knowledge of cloud computing concepts, including IaaS, PaaS, and SaaS models.
 
 ---
 
