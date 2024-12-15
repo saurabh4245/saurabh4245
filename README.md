@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 - 📝 Passionate about journaling and story writing for creativity.
 - 🏏 Avid cricket player who values teamwork and resilience.
 - 👂 Strength: Active listening to connect deeply and understand better.
-- 📌 Looking forward to collaborating and exploring exciting opportunities!
+- 📌 Looking forward to collaborating and exploring exciting opportunities! <br>
   **#IT #Learning #Growth #Developer #Networking**
 
 ## What I Do:
