@@ -20,20 +20,22 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 
 ## 🔧 **Technical Skills**  
 <div align="center">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="50">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" height="50">  
-  <img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" alt="Streamlit" height="50">  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50">  
-  <img src="https://spark.apache.org/images/spark-logo-trademark.png" alt="PySpark" height="50">  
-  <img src="https://drive.google.com/uc?export=view&id=13BDBQaq2HpxYK5tVbv5vhT86CLDcM5sx" alt="Databricks" height="50">  
-  <img src="https://github.com/user-attachments/assets/0735e042-2178-478b-bf02-493a6f4f255c" alt="Google Cloud Platform" height="50">  
-  <img src="https://github.com/user-attachments/assets/63d5e52f-9385-4ec5-a300-43bc0f61d070" alt="MLflow" height="50">  
-  <img src="https://github.com/user-attachments/assets/352d92fb-4b0d-454a-aacb-465dff41a391" alt="TensorFlow" height="50">  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" height="50">&nbsp;&nbsp; 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache Server" height="50">&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="Docker" height="50">&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" height="50">&nbsp;&nbsp;
+
 </div>  
-<div align="center"> 
-(https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma,xd&perline=5)
-</div>
 
 ---
 
