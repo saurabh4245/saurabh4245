@@ -13,8 +13,8 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
   **#IT #Learning #Growth #Developer #Networking**
 
 ## Experience:
-- **WEB DEVELOPMENT | INTERNSHALA TRAININGS**: Learned and implemented core web development concepts, including HTML, CSS, JavaScript, DBMS and responsive design.
-- **INTRODUCTION OF CLOUD COMPUTING AND BASICS OF AWS | SOFTECH CODERS**: Gained foundational knowledge of cloud computing concepts, including IaaS, PaaS, and SaaS models.
+- **Web Development | Internshala Trainings**: Learned and implemented core web development concepts, including HTML, CSS, JavaScript, DBMS and responsive design.
+- **Introduction of Cloud Computing and Basics of AWS | Softech Coders**: Gained foundational knowledge of cloud computing concepts, including IaaS, PaaS, and SaaS models.
 
 ---
 
