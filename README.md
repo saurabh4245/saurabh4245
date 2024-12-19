@@ -60,7 +60,7 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 ### [1️⃣ Healthy Fast Foods: KMeans and Visualization](https://www.kaggle.com/code/vijay20213/healthy-fast-foods-kmeans-and-visualization)  
 > **Description:**  
 > In this project, I explored **healthy fast foods** and clustered them into three groups based on calorie count. Using these clusters, I identified the healthiest fast food category. This will help people avoid harmful fast foods.  
-> **Achievements:** Bronze Medal 🏅 | 4,604 Views 📊  
+> **Achievements:** Bronze Medal 🏅 | 4,604 Views  📊
 
 ### [2️⃣ Cancer Prediction with 98% Accuracy](https://www.kaggle.com/code/vijay20213/cancer-prediction-with-98-accuracy)  
 > **Description:**  
