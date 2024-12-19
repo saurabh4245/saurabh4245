@@ -39,49 +39,40 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 ---
 
 ## 🚀 **Featured Projects**  
-### **1️⃣ [Twitter Post Sentiment Prediction (NLP)](https://github.com/vijaytakbhate2002/sentiment-prediction-flask-application.git)**  
-- Built an advanced **ETL pipeline** with **PySpark** and **SQL** for processing sentiment data.  
-- Conducted **sentiment analysis** using NLP techniques like **TF-IDF** and optimized the model through hyperparameter tuning.  
-- Managed data and feedback through **Google Cloud Storage** and **MySQL**.  
-- Deployed as a **Dockerized web application** on Render with monitoring via **MLFlow**.  
+### **1️⃣ [📌 Project : Student Management System](https://github.com/saurabh4245/Student-_Management_System)**  
+- 📚 Description:Designed and developed a **web-based application** to efficiently manage **student-related information** and streamline academic processes.
+- 💻 Technology Used: HTML, CSS, PHP, MySQL, Bootstrap framework and Apache Web Server.                           
+- 🎯 Key Highlights:
+- 🗂️ Efficiently manages student data.
+- 📊 Features include record management, report generation, and **user-friendly navigation**.
+- 🔒 Ensured data security and seamless access control.
 
-### **2️⃣ [Text-Text Generator Website](https://text-text-generator.onrender.com/)**  
-- Designed a state-of-the-art chatbot powered by the **NVIDIA API**, offering functionalities such as:  
-  - 📝 **Grammar correction**  
-  - 🔄 **Paraphrasing**  
-  - 📜 **Plagiarism checking**  
-  - 📚 **Content summarization**  
-- Built with **Flask** and integrated with a **cloud database** for efficient deployment.  
-
+### **2️⃣ [📌 Project: ProctoAI: Enhancing Exam Integrity Using Machine Learning](https://github.com/saurabh4245/ProctoAI_Project)**  
+- 💻 Technology Used: **Python**
+- 🎯 Project Highlights:
+- 🛡️ Developed a solution to uphold academic integrity by automating **exam monitoring**.
+- 📈 Implemented vigilant mechanisms to discourage and prevent cheating activities.
+- 🤖 Leveraged **machine learning** to ensure a seamless and effective proctoring process.
 
 ---
-## 📝  **Top Kaggle Notebooks**
+## 👨‍💻  **🌐 Exploring My Portfolio: Passion Meets Code**
 
-### [1️⃣ Healthy Fast Foods: KMeans and Visualization](https://www.kaggle.com/code/vijay20213/healthy-fast-foods-kmeans-and-visualization)  
-> **Description:**  
-> In this project, I explored **healthy fast foods** and clustered them into three groups based on calorie count. Using these clusters, I identified the healthiest fast food category. This will help people avoid harmful fast foods.  
-> **Achievements:** Bronze Medal 🏅 | 4,604 Views  📊
-
-### [2️⃣ Cancer Prediction with 98% Accuracy](https://www.kaggle.com/code/vijay20213/cancer-prediction-with-98-accuracy)  
-> **Description:**  
-> This project focuses on **image processing** and the construction of a **CNN model** to predict cancer with 98% accuracy. I also analyzed the model’s performance metrics.  
-> **Achievements:** Bronze Medal 🏅 | 1,621 Views 📊  
-
-### [3️⃣ Pneumonia Detection with CNN and ML with 98% Accuracy](https://www.kaggle.com/code/vijay20213/pneumonia-detection-with-cnn-and-ml-with-98-acc)  
-> **Description:**  
-> I trained a **CNN model** using **17,000 X-ray images** to build a model for pneumonia detection. The project includes a website for easy interaction with the model.  
-> **Achievements:** Bronze Medal 🏅 | 2,000 Views 📊  
-
-### [4️⃣ Stress Identification: NLP with Best Prediction](https://www.kaggle.com/code/vijay20213/stress-identification-nlp-with-best-prediction)  
-> **Description:**  
-> This **NLP** project covers the entire process from **EDA**, **text processing**, **regex operations**, **TF-IDF**, and **BOW** to **model training**.  
-> **Achievements:** Bronze Medal 🏅 | 2,710 Views 📊  
-
-### [5️⃣ Activity Monitoring System Prediction - EDA](https://www.kaggle.com/code/vijay20213/activity-monitoring-system-prediction-eda)  
-> **Description:**  
-> This project involves handling an **imbalanced dataset** for activity prediction. I explored techniques like **undersampling**, **oversampling**, and **synthetic minorities**. However, due to the low data for labels like **stair descending** and **stair ascending**, I avoided these techniques to prevent data loss and overfitting. The model is suitable for **elder activity tracking**, potentially deployable on hardware like **Raspberry Pi**.  
-> **Suggestions:** Try the imbalance handling techniques mentioned in my notebook and share your results in the comments.  
-> **Achievements:** Bronze Medal 🏅 | 680 Views 📊  
+### **[🌟 Introducing My Portfolio Website](https://portfoliosaurabhparchande.netlify.app/)**
+> I’m thrilled to showcase my journey in tech through my portfolio website! It’s a one-stop destination to explore my skills, projects, and passion for development.<br><br>
+> **📌 Key Sections**: <br>
+> Home: A warm welcome and a quick introduction to who I am.<br>
+> About: My story, education, skills, and technologies I specialize in, including HTML, CSS, PHP, JavaScript, Python, and MySQL. <br>
+> Projects: Complitation of my projects. <br>
+> Contact: A contact form and clickable icons to connect with me on LinkedIn, GitHub, YouTube, and Instagram. <br><br>
+> 📂 Additional Features:Download my CV directly from the site. <br>
+> Get in Touch: Do you have a project in your mind, contact me here <br><br>
+> LinkedIn: 💼 https://www.linkedin.com/in/saurabh-parchande-850422236/ <br>
+>   GitHub: 🐱 https://github.com/saurabh4245 <br>
+>  YouTube: 🎥 https://www.youtube.com/channel/UC4SZCo-SlzlxsdyiHJghj0w <br>
+> Instagram: 📷 https://www.instagram.com/thodavelcodingsathi/ <br><br>
+> 🎯 My goal with this website is to showcase my growth as a developer and to connect with like-minded professionals for exciting collaborations. <br><br>
+> 👨‍💻 Check it out, and let’s make something amazing together! <br>
+#Portfolio #WebDevelopment #AI #MachineLearning #CodingJourney #ConnectWithMe
 
 
 ---
