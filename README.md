@@ -68,8 +68,8 @@ Welcome to my GitHub! I'm **Saurabh Parchande**, a passionate **Full Stack Java 
 > Get in Touch: Do you have a project in your mind, contact me here <br><br>
 > LinkedIn: 💼 https://www.linkedin.com/in/saurabh-parchande-850422236/ <br>
 >   GitHub: 🐱 https://github.com/saurabh4245 <br>
->  YouTube: 🎥 https://www.youtube.com/channel/UC4SZCo-SlzlxsdyiHJghj0w <br>
-> Instagram: 📷 https://www.instagram.com/thodavelcodingsathi/ <br><br>
+>  YouTube: 🎥 https://www.youtube.com/@drivewithdiaries <br>
+> Instagram: 📷 https://www.instagram.com/drive_with_diaries/ <br><br>
 > 🎯 My goal with this website is to showcase my growth as a developer and to connect with like-minded professionals for exciting collaborations. <br><br>
 > 👨‍💻 Check it out, and let’s make something amazing together! <br>
 #Portfolio #WebDevelopment #AI #MachineLearning #CodingJourney #ConnectWithMe
@@ -97,8 +97,8 @@ Here is the updated section in the requested style:
 📧 **Email:** [saurabhparchande2701@gmail.com](mailto:saurabhparchande2701@gmail.com)  
 🌍 **GitHub:** [My Repositories](https://github.com/saurabh4245)  
 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/saurabh-parchande-850422236/)  
-📊 **Kaggle:** [My Work](https://www.kaggle.com/vijay20213)  
-🎥 **YouTube:** [Coding Channel](www.youtube.com/@थोडावेळकोडिंगसाठी)  
+📊 **Kaggle:** [My Work](https://www.kaggle.com/saurabh2701)  
+🎥 **YouTube:** [Coding Channel](www.youtube.com/@drivewithdiaries)
 
 ---
 
