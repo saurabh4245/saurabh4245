@@ -98,7 +98,7 @@ Here is the updated section in the requested style:
 🌍 **GitHub:** [My Repositories](https://github.com/saurabh4245)  
 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/saurabh-parchande-850422236/)  
 📊 **Kaggle:** [My Work](https://www.kaggle.com/saurabh2701)  
-🎥 **YouTube:** [Coding Channel](www.youtube.com/@drivewithdiaries)
+🎥 **YouTube:** [My Channel](https://www.youtube.com/@drivewithdiaries)
 
 ---
 
